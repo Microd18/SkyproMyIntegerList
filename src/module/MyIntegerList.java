@@ -14,6 +14,7 @@ public class MyIntegerList implements IntegerList {
     private Integer[] array;
 
 
+
     public MyIntegerList() {
         array = new Integer[DEFAULT_CAPACITY];
     }
